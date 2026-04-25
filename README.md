@@ -2,6 +2,9 @@
 
 <!-- LAST_UPDATED --> Last auto-updated: `2026-04-06 10:14:36 UTC`
 
+ <br>
+ <br>
+ 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=🟩%20GreenGraph%20Bot&fontSize=48&fontColor=4ade80&fontAlignY=38&desc=Auto-commit%20bot%20to%20keep%20your%20contribution%20graph%20alive&descAlignY=58&descColor=94a3b8" alt="header"/>
@@ -35,9 +38,6 @@
 **GreenGraph Bot** is a fun automation project that uses **GitHub Actions** and a **Python script** to make a small, harmless change to this `README.md` file on a scheduled basis — keeping the contribution graph from going completely dark.
 
 It automatically updates a single timestamp line in this file, commits it, and pushes — which GitHub counts as a contribution. That's it. No magic, no tricks, just a tiny timestamp update running on a cron schedule.
-
-</td>
-<td>
 
 </td>
 </tr>
