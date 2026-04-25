@@ -307,9 +307,6 @@ Feel free to fork, modify, and use it for your own fun experiments. 🎉
 
 ---
 
-<div align="center">
-
-Made with 🟩 and a tiny bit of mischief
 
 <br/>
 
