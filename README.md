@@ -255,7 +255,7 @@ Go to: Profile → Edit profile → Check "Include private contributions on my p
 <br/>
 No. GitHub does not ban accounts for automated commits. Many developers use
 bots, scripts, and automation in their repos. This is a completely normal use
-of GitHub Actions. Just don't misrepresent it as real work. 😄
+of GitHub Actions. Just don't misrepresent it as real work. 
 </details>
 
 <details>
@@ -291,7 +291,7 @@ documentation for the multi-repo setup guide.
 ║   Please DO NOT use this to deceive employers, clients,      ║
 ║   or collaborators about your actual coding activity.        ║
 ║                                                              ║
-║   The real green squares come from real work. 💚             ║
+║   The real green squares come from real work.              ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
@@ -303,7 +303,7 @@ documentation for the multi-repo setup guide.
 ## 📜 License
 
 This project is open source and available under the [MIT License](LICENSE).
-Feel free to fork, modify, and use it for your own fun experiments. 🎉
+Feel free to fork, modify, and use it for your own fun experiments. 
 
 ---
 
