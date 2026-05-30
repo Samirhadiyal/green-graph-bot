@@ -295,12 +295,7 @@ documentation for the multi-repo setup guide.
 
 ---
 
-## 📜 License
 
-This project is open source and available under the [MIT License](LICENSE).
-Feel free to fork, modify, and use it for your own fun experiments. 
-
----
 
 
 <br/>
